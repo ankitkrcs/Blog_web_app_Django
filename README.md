@@ -1,6 +1,6 @@
 # Blog_web_app_Django
 Part 1:
-1:Create a web-app where a user can login.
+1:Create a web-app where a user can login.                                                
 2:User can upload files.
 3:User can view his/her uploaded files.
 Part 2:
